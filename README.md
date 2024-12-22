@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nelmestk
-- 👀 I’m interested in imperative programming, machine learning, cybersecurity
-- 🌱 I’m currently learning linear algebra, functional programming and computer systems
-- 💞️ I’m looking to collaborate on literally anything just email me
-- 📫 How to reach me nadamaged05@gmail.com
+- 👀 I’m interested in imperative programming, machine learning, and functional programming
+- 🌱 I’m currently learning probability theory, discrete math and parallel/sequential DSA
+- 💞️ I’m looking to collaborate on projects just email me
+- 📫 Reach me at nadamaged05@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Love to read! Currently reading Algorithms to Live By
 

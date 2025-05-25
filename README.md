@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nelmestk
+- 👋 Hi, I’m @gooseEggs
 - 👀 I’m interested in imperative programming, machine learning, and functional programming
 - 🌱 I’m currently learning probability theory, discrete math and parallel/sequential DSA
 - 💞️ I’m looking to collaborate on projects just email me
